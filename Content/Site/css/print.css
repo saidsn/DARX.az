@@ -1,0 +1,34 @@
+header{
+    display: none;
+}
+.header-placeholder{
+    display: none;
+}
+.featured-properties-area{
+    display: none;
+}
+footer{
+    display: none;
+}
+#zoyavku {
+    display: none;
+}
+.sharethis-inline-share-buttons{
+    display: none!important;
+}
+.converted-price{
+    display: none!important;
+}
+div#map {
+    margin: 3px 0px!important;
+    height: 180px!important;
+}
+#zoyavku {
+    display: none !important
+}
+.underads {
+    display: none !important
+}
+#simplepay {
+    display: none !important
+}
